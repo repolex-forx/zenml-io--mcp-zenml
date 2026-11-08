@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/mcp-zenml/commit/3de0643d36407566559c7d9e8e01114e2f5412e9",
       "git:hexsha": "3de0643d36407566559c7d9e8e01114e2f5412e9",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.1.1"
     },
     {
